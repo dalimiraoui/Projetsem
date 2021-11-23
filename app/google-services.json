@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "18229789454",
+    "project_id": "projetsem-71a59",
+    "storage_bucket": "projetsem-71a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18229789454:android:4e20819003a66a9d534d5f",
+        "android_client_info": {
+          "package_name": "eniso.ia2.projetsem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18229789454-mj58fkap6jm5gotpmvdahd1c6c40pl07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eniso.ia2.projetsem",
+            "certificate_hash": "ba4de51291f637732ed52f660a6825f7cb834bab"
+          }
+        },
+        {
+          "client_id": "18229789454-urtbl9hkomt7hmcd8f7cauk8jbm2r99t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7fpNLVZk1omz0djM6IZP74O-E6Th3MPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18229789454-urtbl9hkomt7hmcd8f7cauk8jbm2r99t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

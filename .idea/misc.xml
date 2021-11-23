@@ -5,6 +5,13 @@
       <map>
         <entry key="..\:/Users/Ibrahim/AndroidStudioProjects/Projetsem/app/src/main/res/layout/activity_main.xml" value="0.16893115942028986" />
         <entry key="..\:/Users/Ibrahim/AndroidStudioProjects/Projetsem/app/src/main/res/layout/activity_profile.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/Oumayma/AndroidStudioProjects/Projetsem/app/src/main/res/drawable/button_background.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Oumayma/AndroidStudioProjects/Projetsem/app/src/main/res/layout/activity_forgot_password.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/Oumayma/AndroidStudioProjects/Projetsem/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Oumayma/AndroidStudioProjects/Projetsem/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Oumayma/AndroidStudioProjects/Projetsem/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Oumayma/AndroidStudioProjects/Projetsem/app/src/main/res/layout/activity_splash.xml" value="0.15625" />
+        <entry key="..\:/Users/Oumayma/AndroidStudioProjects/Projetsem/app/src/main/res/layout/dialog_progress.xml" value="0.13858695652173914" />
       </map>
     </option>
   </component>
